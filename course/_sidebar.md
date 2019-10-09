@@ -3,4 +3,8 @@
 -   [Introducing the Shell](/intro-shell)
 -   [Files and Directories](/filedir)
 -   [Creating Files and Directories](/create)
+-   [Pipes and Filters](/pipefilter)
+-   [Loops](/loop)
+-   [Scripts](/script)
+-   [Finding things](/find)
 -   [Reference](/reference)
