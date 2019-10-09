@@ -7,13 +7,7 @@ More importantly, it helps them combine existing programs in new ways and automa
 
 Use of the shell is fundamental to using a wide range of other powerful tools. This lesson will start you on a path towards using these resources effectively.
 
-These notes contain information on how to ..., including:
-
-1. do this thing
-2. do the other thing
-3. do something else
-
-?> In order complete all the tasks in this handout, you will also need to refer to the following documentation: [Computing Facilities in Cardiff School of Computer Science & Informatics](http://docs.cs.cf.ac.uk/notes/school-computing-facilities/)
+?> In order complete all the tasks in this lesson, you will also need to refer to the following documentation: [Computing Facilities in Cardiff School of Computer Science & Informatics](http://docs.cs.cf.ac.uk/notes/school-computing-facilities/)
 
 &nbsp;
 
