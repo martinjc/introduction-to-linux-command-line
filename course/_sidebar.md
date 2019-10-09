@@ -1,1 +1,6 @@
 -   [Home](/)
+-   [Introduction](/introduction)
+-   [Introducing the Shell](/intro-shell)
+-   [Files and Directories](/filedir)
+-   [Creating Files and Directories](/create)
+-   [Reference](/reference)
