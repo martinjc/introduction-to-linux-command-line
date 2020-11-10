@@ -1,15 +1,15 @@
-# About
+# Introduction to the Linux Command Line
 
-This course can be viewed online here: http://comsc.pages.cs.cf.ac.uk/introduction-to-linux-command-line
+The purpose of this introduction is to introduce you to using the Linux/Unix Command Line, or 'shell'. The Unix shell has been around longer than most of its users have been alive.
 
-### Authors
+It has survived so long because it's a power tool that allows people to do complex things with just a few keystrokes.
+More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren't typing the same things over and over again.
 
-Version 0.1 - Martin Chorley
+Use of the shell is fundamental to using a wide range of other powerful tools. This lesson will start you on a path towards using these resources effectively.
 
+?> In order complete all the tasks in this lesson, you will also need to refer to the following documentation: [Computing Facilities in Cardiff School of Computer Science & Informatics](http://docs.cs.cf.ac.uk/notes/school-computing-facilities/)
 
-This course is derived from the Software Carpentry course 'The Unix Shell', which contains material Copyright © [Software Carpentry](http://software-carpentry.org/) and released under a [CC BY 4.0][cc-by-human] License. The material from this source course has been adapted to add information specific to the School of Computer Science & Informatics at Cardiff University.
+&nbsp;
 
-“Software Carpentry” and “Data Carpentry” and their respective logos are registered trademarks of Community Initiatives.
-
-
-[cc-by-human]: https://creativecommons.org/licenses/by/4.0/
+?> Other documentation is available on the School’s website at URL http://docs.cs.cf.ac.uk/notes/
+?> At this URL, you will also find other helpful guides on a variety of subjects that you might find useful throughout your study at the School.
